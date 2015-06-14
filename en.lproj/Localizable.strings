@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Capta
+
+  Created by Tatiana Magdalena on 6/1/15.
+  Copyright (c) 2015 Gabriel Vinagre. All rights reserved.
+*/
+
+"Title" = "Book Title";
+"BookDescription" = "Book Description";
+"MediaDescription" = "Image Description";
+"MediaTitle" = "Image Title";
+"AddBook" = "Add new Book";
+"AddImage" = "Add new Image";
+"DeleteImage" = "Would you like to delete this image?";
+
+"NoTitleAlert" = "The title is missing!";
+"NoTitleAlertButton" = "Ok";
+
+"TakeCoverPicture" = "Take a picture for cover image";
+"SelectCoverPicture" = "Select a cover image";
+
+
+"TakePicture" = "Take a picture";
+"SelectPicture" = "Select a picture";
+
+"ChooseOption" = "Choose Option:";
+
+"Delete" = "Delete";
+"Edit" = "Edit";
+"Cancel" = "Cancel";
+"Share" = "Share";
+

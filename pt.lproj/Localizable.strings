@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Capta
+
+  Created by Tatiana Magdalena on 6/1/15.
+  Copyright (c) 2015 Gabriel Vinagre. All rights reserved.
+*/
+
+"Title" = "Título do Livro";
+"BookDescription" = "Descrição do Livro";
+"MediaDescription" = "Descrição da Imagem";
+"MediaTitle" = "Título da Imagem";
+"AddBook" = "Adicionar novo livro";
+"AddImage" = "Adicionar nova imagem";
+"DeleteImage" = "Você gostaria de deletar essa imagem?";
+
+
+"NoTitleAlert" = "Está faltando o título!";
+"NoTitleAlertButton" = "Ok";
+
+"TakeCoverPicture" = "Tire foto para imagem de capa";
+"SelectCoverPicture" = "Selecione uma imagem de capa";
+
+"TakePicture" = "Tire uma foto";
+"SelectPicture" = "Selecione uma imagem";
+
+"ChooseOption" = "Escolha a opção:";
+
+"Delete" = "Deletar";
+"Edit" = "Editar";
+"Cancel" = "Cancelar";
+"Share" = "Compartilhar";
